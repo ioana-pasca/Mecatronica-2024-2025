@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="261.71063mm"
+   height="98.839966mm"
+   viewBox="0 0 261.71062 98.839966"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="eslabon_medidas.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style43">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1"
+     inkscape:cx="568"
+     inkscape:cy="254"
+     inkscape:window-width="1680"
+     inkscape:window-height="1020"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker50"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path50" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DartArrow"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Dart arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         transform="scale(-0.5)"
+         id="path6" />
+    </marker>
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect43"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="0"
+       position="5"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.25"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="true"
+       flip_side="true"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt;&#10;Display and position dimension lines and labels&#10;&#10;&lt;b&gt;&lt;big&gt;Projection&lt;/big&gt;&lt;/b&gt;&#10;Show a line with measurements based on the selected items&#10;&#10;&lt;b&gt;&lt;big&gt;Options&lt;/big&gt;&lt;/b&gt;&#10;Options for color, precision, label formatting and display&#10;&#10;&lt;b&gt;&lt;big&gt;Tips&lt;/big&gt;&lt;/b&gt;&#10;&lt;b&gt;&lt;i&gt;Custom styling:&lt;/i&gt;&lt;/b&gt; To further customize the styles, use the XML editor to find out the class or ID, then use the Style dialog to apply a new style.&#10;&lt;b&gt;&lt;i&gt;Blacklists:&lt;/i&gt;&lt;/b&gt; allow to hide some segments or projection steps.&#10;&lt;b&gt;&lt;i&gt;Multiple Measure LPEs:&lt;/i&gt;&lt;/b&gt; In the same object, in conjunction with blacklists,this allows for labels and measurements with different orientations or additional projections.&#10;&lt;b&gt;&lt;i&gt;Set Defaults:&lt;/i&gt;&lt;/b&gt; For every LPE, default values can be set at the bottom." />
+    <marker
+       id="ArrowDIN-start"
+       class="circle43 path-effect43 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-start"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true"
+       viewBox="0 0 16 4.22"
+       markerWidth="15.999999"
+       markerHeight="4.2199998"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M -8,0 8,-2.11 v 4.22 z"
+         class="circle43 path-effect43 measure-arrow"
+         id="ArrowDIN-start_path"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDIN-end"
+       class="circle43 path-effect43 measure-arrow-marker"
+       inkscape:stockid="ArrowDIN-end"
+       orient="auto"
+       refX="0"
+       refY="0"
+       sodipodi:insensitive="true"
+       viewBox="0 0 16 4.22"
+       markerWidth="15.999999"
+       markerHeight="4.2199998"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 8,0 -8,2.11 v -4.22 z"
+         class="circle43 path-effect43 measure-arrow"
+         id="ArrowDIN-end_path"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-start"
+       class="circle43 path-effect43 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-start"
+       orient="auto"
+       refX="0"
+       refY="0"
+       viewBox="0 0 26 4.22"
+       markerWidth="26"
+       markerHeight="4.2199998"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="M 0,0 -16,2.11 V 0.5 h -10 v -1 h 10 v -1.61 z"
+         class="circle43 path-effect43 measure-arrow"
+         id="ArrowDINout-start_path"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-end"
+       class="circle43 path-effect43 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-end"
+       orient="auto"
+       refX="0"
+       refY="0"
+       viewBox="0 0 26 4.22"
+       markerWidth="26"
+       markerHeight="4.2199998"
+       preserveAspectRatio="xMidYMid">
+      <path
+         d="m 0,0 16,-2.11 v 1.61 h 10 v 1 H 16 v 1.61 z"
+         class="circle43 path-effect43 measure-arrow"
+         id="ArrowDINout-end_path"
+         style="fill:context-stroke;fill-opacity:1;stroke:none" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.025783,-19.1139)">
+    <path
+       d="M 58.967593,41.172601 C 40.879382,41.172293 26.215502,54.627457 26.215334,71.225157 26.214998,87.823183 40.879026,101.27886 58.967593,101.27855 v 0.0344 H 202.03309 v -0.0143 c 0.0455,0.005 0.0908,0.01 0.13631,0.0143 18.08797,-1.6e-4 32.75119,-13.455085 32.75135,-30.052555 -1.6e-4,-16.59747 -14.66338,-30.052401 -32.75135,-30.052556 -0.0455,0.0047 -0.0908,0.0094 -0.13631,0.0143 v -0.04953 z"
+       style="fill:#d1edff;fill-opacity:1;stroke:#000000;stroke-width:1.02433;stroke-miterlimit:0;paint-order:fill markers stroke"
+       id="path5" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.603999;stroke-miterlimit:0;paint-order:fill markers stroke"
+       id="path31"
+       cx="55.59634"
+       cy="72.007683"
+       r="9.6730042" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.603999;stroke-miterlimit:0;paint-order:fill markers stroke"
+       id="circle31"
+       cx="205.56485"
+       cy="72.007683"
+       r="9.6730042" />
+    <path
+       id="circle43"
+       d="m 65.269344,72.007685 a 9.6730042,9.6730042 0 0 1 -9.673004,9.673004 9.6730042,9.6730042 0 0 1 -9.673004,-9.673004 9.6730042,9.6730042 0 0 1 9.673004,-9.673004 9.6730042,9.6730042 0 0 1 9.673004,9.673004 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.603999;stroke-miterlimit:0;paint-order:fill markers stroke" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.603999;stroke-miterlimit:0;paint-order:fill markers stroke"
+       x="38.970242"
+       y="38.149841"
+       id="text48"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         style="stroke-width:0.604"
+         x="38.970242"
+         y="38.149841"></tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.492057;stroke-miterlimit:0;marker-start:url(#DartArrow);marker-end:url(#marker50);paint-order:fill markers stroke"
+       d="m 55.627843,65.67656 c 0,12.812968 0,12.812968 0,12.812968"
+       id="path49" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.35412px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01855;stroke-miterlimit:0;paint-order:fill markers stroke"
+       x="66.291328"
+       y="73.88269"
+       id="text50"><tspan
+         sodipodi:role="line"
+         id="tspan50"
+         style="stroke:none;stroke-width:1.01855"
+         x="66.291328"
+         y="73.88269">20mm</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.304;stroke-miterlimit:0;stroke-dasharray:0.608, 1.216;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 55.576527,62.42508 c 0.08121,-32.46659 0.08121,-32.46659 0.08121,-32.46659"
+       id="path51" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.346977;stroke-miterlimit:0;stroke-dasharray:0.693955, 1.38791;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 205.39201,72.247635 c 0.0809,-42.468009 0.0809,-42.468009 0.0809,-42.468009"
+       id="path52" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.695012;stroke-miterlimit:0;stroke-dasharray:none;marker-start:url(#DartArrow);marker-end:url(#marker50);paint-order:fill markers stroke"
+       d="m 59.697861,29.95849 c 141.740359,0 141.740359,0 141.740359,0"
+       id="path53" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.35412px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01855;stroke-miterlimit:0;paint-order:fill markers stroke"
+       x="121.97739"
+       y="29.008142"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="stroke:none;stroke-width:1.01855"
+         x="121.97739"
+         y="29.008142">150mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.664001;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       x="147.8389"
+       y="0.78091276"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="stroke-width:0.664"
+         x="147.8389"
+         y="0.78091276" /></text>
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.346977;stroke-miterlimit:0;stroke-dasharray:0.693955, 1.38791;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 205.62292,41.492509 c 42.46801,0.0809 42.46801,0.0809 42.46801,0.0809"
+       id="path54" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.346977;stroke-miterlimit:0;stroke-dasharray:0.693955, 1.38791;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       d="m 205.62292,101.29839 c 42.46801,0.0809 42.46801,0.0809 42.46801,0.0809"
+       id="path55" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.437804;stroke-miterlimit:0;stroke-dasharray:none;marker-start:url(#DartArrow);marker-end:url(#marker50);paint-order:fill markers stroke"
+       d="m 248.09093,44.126464 c 0,56.243006 0,56.243006 0,56.243006"
+       id="path56" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.35412px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.01855;stroke-miterlimit:0;paint-order:fill markers stroke"
+       x="253.27916"
+       y="72.17215"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         style="stroke:none;stroke-width:1.01855"
+         x="253.27916"
+         y="72.17215">60mm</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2"
+     transform="translate(-13.807105,0.13293984)" />
+</svg>
