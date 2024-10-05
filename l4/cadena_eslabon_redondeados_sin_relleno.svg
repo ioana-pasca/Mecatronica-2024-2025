@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="cadena_eslabon_redondeados_sin_relleno.svg"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0330822"
+     inkscape:cx="419.6181"
+     inkscape:cy="430.74984"
+     inkscape:window-width="1680"
+     inkscape:window-height="1020"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#73dcff;stroke-width:0.918274;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1"
+       width="51.904449"
+       height="8.9581385"
+       x="8.7644272"
+       y="98.276131"
+       ry="4.4790692" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#73a9ff;stroke-width:0.918554;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="50.756233"
+       height="9.1663761"
+       x="-53.321808"
+       y="103.50378"
+       transform="matrix(0.62382938,-0.78156056,0.80285765,0.59617078,0,0)"
+       ry="4.5831881" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#7381ff;stroke-width:0.918515;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="51.400112"
+       height="9.0507679"
+       x="102.51555"
+       y="13.422453"
+       transform="matrix(0.85833416,0.51309109,-0.54057667,0.84129475,0,0)"
+       ry="4.5253839" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#b173ff;stroke-width:0.918515;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="50.579346"
+       height="9.197628"
+       x="13.500092"
+       y="-153.70166"
+       transform="matrix(-0.53976538,0.8418155,-0.85881276,-0.51228961,0,0)"
+       ry="4.598814" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#e473ff;stroke-width:0.918473;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="51.523407"
+       height="9.0282936"
+       x="-190.97154"
+       y="-74.934723"
+       transform="matrix(-0.89543976,-0.44518271,0.471326,-0.88195907,0,0)"
+       ry="4.5141468" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff73e2;stroke-width:0.918308;stroke-dasharray:none;stroke-opacity:1"
+       id="rect8"
+       width="50.117329"
+       height="9.2782516"
+       x="-125.27023"
+       y="152.89445"
+       transform="matrix(0.17593005,-0.98440267,0.98645839,0.16401175,0,0)"
+       ry="4.6391258" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#ff7395;stroke-width:0.918495;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9"
+       width="51.459461"
+       height="9.0399637"
+       x="64.442245"
+       y="155.19356"
+       transform="matrix(0.87642511,-0.48153818,0.50852641,0.86104639,0,0)"
+       ry="4.5199819" />
+  </g>
+</svg>
